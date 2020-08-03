@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TL3342F160QG/TR
+#
+DEF TL3342F160QG/TR SW 0 40 N N 1 L N
+F0 "SW" -501 652 50 H V L BNN
+F1 "TL3342F160QG/TR" -501 -702 50 H V L BNN
+F2 "SW_TL3342F160QG/TR" 0 0 50 H I L BNN
+F3 "E-Switch" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 0 250 0 150 N
+P 2 0 0 10 0 -150 0 -250 N
+P 2 0 0 10 0 -250 300 -250 N
+P 2 0 0 10 0 -250 -300 -250 N
+P 2 0 0 10 -300 -250 -300 -350 N
+P 2 0 0 10 300 -250 300 -350 N
+P 2 0 0 10 0 250 300 250 N
+P 2 0 0 10 300 250 300 350 N
+P 2 0 0 10 0 250 -300 250 N
+P 2 0 0 10 -300 250 -300 350 N
+C 0 100 50 0 0 0 N
+C 0 -100 50 0 0 0 N
+P 2 0 0 10 100 150 100 0 N
+P 2 0 0 10 100 0 100 -150 N
+P 2 0 0 10 100 0 300 0 N
+X ~ 3 -300 450 200 D 40 40 0 0 P 
+X ~ 4 300 450 200 D 40 40 0 0 P 
+X ~ 1 -300 -450 200 U 40 40 0 0 P 
+X ~ 2 300 -450 200 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
