@@ -4,4 +4,6 @@
   (lib (name "FA-238 16")(type KiCad)(uri "${KIPRJMOD}/libraries/FA-238 16.0000MB-C3")(options "")(descr ""))
   (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/libraries/keyboard_parts.pretty)(options "")(descr ""))
   (lib (name keebs)(type KiCad)(uri ${KIPRJMOD}/libraries/keebs.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/libraries/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name cftkb)(type KiCad)(uri ${KIPRJMOD}/libraries/cftkb.pretty)(options "")(descr ""))
 )
