@@ -347,6 +347,33 @@ X COM C -300 -100 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# dk_Rectangular-Connectors-Headers-Male-Pins_61300311121
+#
+DEF dk_Rectangular-Connectors-Headers-Male-Pins_61300311121 J 0 40 Y Y 1 F N
+F0 "J" -200 100 50 H V L CNN
+F1 "dk_Rectangular-Connectors-Headers-Male-Pins_61300311121" 100 -100 50 H V C CNN
+F2 "digikey-footprints:PinHeader_1x3_P2.54_Drill1.1mm" 200 200 60 H I L CNN
+F3 "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf" 200 300 60 H I L CNN
+F4 "732-5316-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "61300311121" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Rectangular Connectors - Headers, Male Pins" 200 700 60 H I L CNN "Family"
+F8 "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/wurth-electronics-inc/61300311121/732-5316-ND/4846825" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN HEADER VERT 3POS 2.54MM" 200 1000 60 H I L CNN "Description"
+F11 "Wurth Electronics Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -50 50 250 -50 1 1 0 f
+S -10 5 10 -15 1 1 0 F
+S 90 5 110 -15 1 1 0 F
+S 190 5 210 -15 1 1 0 F
+X ~ 1 0 150 100 D 50 50 1 1 P
+X ~ 2 100 150 100 D 50 50 1 1 P
+X ~ 3 200 150 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # keyboard_KEYSW
 #
 DEF keyboard_KEYSW K? 0 40 Y Y 1 F N
