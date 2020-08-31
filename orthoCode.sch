@@ -24,26 +24,6 @@ F 3 "" H 3000 1950 60  0000 C CNN
 	1    3000 1950
 	1    0    0    -1  
 $EndComp
-$Comp
-L dk_Diodes-Rectifiers-Single:1N4148 D5:0
-U 1 1 5F20A273
-P 2700 1850
-F 0 "D5:0" H 2750 2075 50  0000 C CNN
-F 1 "1N4148" H 2750 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 2900 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 2900 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 2900 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 2900 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2900 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 2900 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 2900 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 2900 3050 60  0001 L CNN "Status"
-	1    2700 1850
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	3300 1950 3300 2250
 $Comp
@@ -60,22 +40,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:0
 U 1 1 5F20F7BC
-P 2700 2700
-F 0 "D4:0" H 2750 2925 50  0000 C CNN
-F 1 "1N4148" H 2750 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 2900 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 2900 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 2900 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 2900 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2900 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 2900 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 2900 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 2900 3900 60  0001 L CNN "Status"
-	1    2700 2700
-	0    -1   -1   0   
+P 2700 2600
+F 0 "D4:0" H 2750 2825 50  0000 C CNN
+F 1 "1N4148" H 2750 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 2900 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 2900 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 2900 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 2900 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2900 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 2900 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 2900 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 2900 3800 60  0001 L CNN "Status"
+	1    2700 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	3300 2800 3300 3100
@@ -93,22 +73,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:1
 U 1 1 5F21904E
-P 3650 1850
-F 0 "D5:1" H 3700 2075 50  0000 C CNN
-F 1 "1N4148" H 3700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 3850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 3850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 3850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 3850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 3850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 3850 3050 60  0001 L CNN "Status"
-	1    3650 1850
-	0    -1   -1   0   
+P 3650 1750
+F 0 "D5:1" H 3700 1975 50  0000 C CNN
+F 1 "1N4148" H 3700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 3850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 3850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 3850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 3850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 3850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 3850 2950 60  0001 L CNN "Status"
+	1    3650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	4250 1950 4250 2250
@@ -126,22 +106,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:1
 U 1 1 5F21C01C
-P 3650 2700
-F 0 "D4:1" H 3700 2925 50  0000 C CNN
-F 1 "1N4148" H 3700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 3850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 3850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 3850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 3850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 3850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 3850 3900 60  0001 L CNN "Status"
-	1    3650 2700
-	0    -1   -1   0   
+P 3650 2600
+F 0 "D4:1" H 3700 2825 50  0000 C CNN
+F 1 "1N4148" H 3700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 3850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 3850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 3850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 3850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 3850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 3850 3800 60  0001 L CNN "Status"
+	1    3650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	4250 2800 4250 3100
@@ -159,22 +139,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:0
 U 1 1 5F21D420
-P 2700 3550
-F 0 "D3:0" H 2750 3775 50  0000 C CNN
-F 1 "1N4148" H 2750 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 2900 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 2900 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 2900 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 2900 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2900 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 2900 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 2900 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 2900 4750 60  0001 L CNN "Status"
-	1    2700 3550
-	0    -1   -1   0   
+P 2700 3450
+F 0 "D3:0" H 2750 3675 50  0000 C CNN
+F 1 "1N4148" H 2750 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 2900 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 2900 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 2900 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 2900 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2900 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 2900 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 2900 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 2900 4650 60  0001 L CNN "Status"
+	1    2700 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	3300 3650 3300 3950
@@ -192,22 +172,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:1
 U 1 1 5F21F508
-P 3650 3550
-F 0 "D3:1" H 3700 3775 50  0000 C CNN
-F 1 "1N4148" H 3700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 3850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 3850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 3850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 3850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 3850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 3850 4750 60  0001 L CNN "Status"
-	1    3650 3550
-	0    -1   -1   0   
+P 3650 3450
+F 0 "D3:1" H 3700 3675 50  0000 C CNN
+F 1 "1N4148" H 3700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 3850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 3850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 3850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 3850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 3850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 3850 4650 60  0001 L CNN "Status"
+	1    3650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	4250 3650 4250 3950
@@ -225,22 +205,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:1
 U 1 1 5F223A09
-P 3650 4400
-F 0 "D2:1" H 3700 4625 50  0000 C CNN
-F 1 "1N4148" H 3700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 3850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 3850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 3850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 3850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 3850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 3850 5600 60  0001 L CNN "Status"
-	1    3650 4400
-	0    -1   -1   0   
+P 3650 4300
+F 0 "D2:1" H 3700 4525 50  0000 C CNN
+F 1 "1N4148" H 3700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 3850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 3850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 3850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 3850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 3850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 3850 5500 60  0001 L CNN "Status"
+	1    3650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	4250 4500 4250 4800
@@ -258,22 +238,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:1
 U 1 1 5F223A22
-P 3650 5250
-F 0 "D1:1" H 3700 5475 50  0000 C CNN
-F 1 "1N4148" H 3700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 3850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 3850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 3850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 3850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 3850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 3850 6450 60  0001 L CNN "Status"
-	1    3650 5250
-	0    -1   -1   0   
+P 3650 5150
+F 0 "D1:1" H 3700 5375 50  0000 C CNN
+F 1 "1N4148" H 3700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 3850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 3850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 3850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 3850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 3850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 3850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 3850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 3850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 3850 6350 60  0001 L CNN "Status"
+	1    3650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	4250 5350 4250 5650
@@ -291,22 +271,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:2
 U 1 1 5F22E22A
-P 4650 1850
-F 0 "D5:2" H 4700 2075 50  0000 C CNN
-F 1 "1N4148" H 4700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 4850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 4850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 4850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 4850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 4850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 4850 3050 60  0001 L CNN "Status"
-	1    4650 1850
-	0    -1   -1   0   
+P 4650 1750
+F 0 "D5:2" H 4700 1975 50  0000 C CNN
+F 1 "1N4148" H 4700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 4850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 4850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 4850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 4850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 4850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 4850 2950 60  0001 L CNN "Status"
+	1    4650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	5250 1950 5250 2250
@@ -324,22 +304,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:2
 U 1 1 5F22E243
-P 4650 2700
-F 0 "D4:2" H 4700 2925 50  0000 C CNN
-F 1 "1N4148" H 4700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 4850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 4850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 4850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 4850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 4850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 4850 3900 60  0001 L CNN "Status"
-	1    4650 2700
-	0    -1   -1   0   
+P 4650 2600
+F 0 "D4:2" H 4700 2825 50  0000 C CNN
+F 1 "1N4148" H 4700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 4850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 4850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 4850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 4850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 4850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 4850 3800 60  0001 L CNN "Status"
+	1    4650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	5250 2800 5250 3100
@@ -357,22 +337,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:2
 U 1 1 5F22E25C
-P 4650 3550
-F 0 "D3:2" H 4700 3775 50  0000 C CNN
-F 1 "1N4148" H 4700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 4850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 4850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 4850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 4850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 4850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 4850 4750 60  0001 L CNN "Status"
-	1    4650 3550
-	0    -1   -1   0   
+P 4650 3450
+F 0 "D3:2" H 4700 3675 50  0000 C CNN
+F 1 "1N4148" H 4700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 4850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 4850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 4850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 4850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 4850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 4850 4650 60  0001 L CNN "Status"
+	1    4650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	5250 3650 5250 3950
@@ -390,22 +370,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:2
 U 1 1 5F22E275
-P 4650 4400
-F 0 "D2:2" H 4700 4625 50  0000 C CNN
-F 1 "1N4148" H 4700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 4850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 4850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 4850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 4850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 4850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 4850 5600 60  0001 L CNN "Status"
-	1    4650 4400
-	0    -1   -1   0   
+P 4650 4300
+F 0 "D2:2" H 4700 4525 50  0000 C CNN
+F 1 "1N4148" H 4700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 4850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 4850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 4850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 4850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 4850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 4850 5500 60  0001 L CNN "Status"
+	1    4650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	5250 4500 5250 4800
@@ -423,22 +403,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:2
 U 1 1 5F22E28E
-P 4650 5250
-F 0 "D1:2" H 4700 5475 50  0000 C CNN
-F 1 "1N4148" H 4700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 4850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 4850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 4850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 4850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 4850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 4850 6450 60  0001 L CNN "Status"
-	1    4650 5250
-	0    -1   -1   0   
+P 4650 5150
+F 0 "D1:2" H 4700 5375 50  0000 C CNN
+F 1 "1N4148" H 4700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 4850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 4850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 4850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 4850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 4850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 4850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 4850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 4850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 4850 6350 60  0001 L CNN "Status"
+	1    4650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	5250 5350 5250 5650
@@ -456,22 +436,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:3
 U 1 1 5F23F740
-P 5650 1850
-F 0 "D5:3" H 5700 2075 50  0000 C CNN
-F 1 "1N4148" H 5700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 5850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 5850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 5850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 5850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 5850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5850 3050 60  0001 L CNN "Status"
-	1    5650 1850
-	0    -1   -1   0   
+P 5650 1750
+F 0 "D5:3" H 5700 1975 50  0000 C CNN
+F 1 "1N4148" H 5700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 5850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 5850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 5850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 5850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 5850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5850 2950 60  0001 L CNN "Status"
+	1    5650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	6250 1950 6250 2250
@@ -489,22 +469,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:3
 U 1 1 5F23F759
-P 5650 2700
-F 0 "D4:3" H 5700 2925 50  0000 C CNN
-F 1 "1N4148" H 5700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 5850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 5850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 5850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 5850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 5850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5850 3900 60  0001 L CNN "Status"
-	1    5650 2700
-	0    -1   -1   0   
+P 5650 2600
+F 0 "D4:3" H 5700 2825 50  0000 C CNN
+F 1 "1N4148" H 5700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 5850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 5850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 5850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 5850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 5850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5850 3800 60  0001 L CNN "Status"
+	1    5650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	6250 2800 6250 3100
@@ -522,22 +502,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:3
 U 1 1 5F23F772
-P 5650 3550
-F 0 "D3:3" H 5700 3775 50  0000 C CNN
-F 1 "1N4148" H 5700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 5850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 5850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 5850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 5850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 5850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5850 4750 60  0001 L CNN "Status"
-	1    5650 3550
-	0    -1   -1   0   
+P 5650 3450
+F 0 "D3:3" H 5700 3675 50  0000 C CNN
+F 1 "1N4148" H 5700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 5850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 5850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 5850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 5850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 5850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5850 4650 60  0001 L CNN "Status"
+	1    5650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	6250 3650 6250 3950
@@ -555,22 +535,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:3
 U 1 1 5F23F78B
-P 5650 4400
-F 0 "D2:3" H 5700 4625 50  0000 C CNN
-F 1 "1N4148" H 5700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 5850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 5850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 5850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 5850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 5850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5850 5600 60  0001 L CNN "Status"
-	1    5650 4400
-	0    -1   -1   0   
+P 5650 4300
+F 0 "D2:3" H 5700 4525 50  0000 C CNN
+F 1 "1N4148" H 5700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 5850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 5850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 5850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 5850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 5850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5850 5500 60  0001 L CNN "Status"
+	1    5650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	6250 4500 6250 4800
@@ -588,22 +568,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:3
 U 1 1 5F23F7A4
-P 5650 5250
-F 0 "D1:3" H 5700 5475 50  0000 C CNN
-F 1 "1N4148" H 5700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 5850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 5850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 5850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 5850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 5850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5850 6450 60  0001 L CNN "Status"
-	1    5650 5250
-	0    -1   -1   0   
+P 5650 5150
+F 0 "D1:3" H 5700 5375 50  0000 C CNN
+F 1 "1N4148" H 5700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 5850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 5850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 5850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 5850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 5850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 5850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 5850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 5850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5850 6350 60  0001 L CNN "Status"
+	1    5650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	6250 5350 6250 5650
@@ -621,22 +601,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:4
 U 1 1 5F23F7BD
-P 6650 1850
-F 0 "D5:4" H 6700 2075 50  0000 C CNN
-F 1 "1N4148" H 6700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 6850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 6850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 6850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 6850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 6850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 6850 3050 60  0001 L CNN "Status"
-	1    6650 1850
-	0    -1   -1   0   
+P 6650 1750
+F 0 "D5:4" H 6700 1975 50  0000 C CNN
+F 1 "1N4148" H 6700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 6850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 6850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 6850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 6850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 6850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6850 2950 60  0001 L CNN "Status"
+	1    6650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	7250 1950 7250 2250
@@ -654,22 +634,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:4
 U 1 1 5F23F7D6
-P 6650 2700
-F 0 "D4:4" H 6700 2925 50  0000 C CNN
-F 1 "1N4148" H 6700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 6850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 6850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 6850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 6850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 6850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 6850 3900 60  0001 L CNN "Status"
-	1    6650 2700
-	0    -1   -1   0   
+P 6650 2600
+F 0 "D4:4" H 6700 2825 50  0000 C CNN
+F 1 "1N4148" H 6700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 6850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 6850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 6850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 6850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 6850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6850 3800 60  0001 L CNN "Status"
+	1    6650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	7250 2800 7250 3100
@@ -687,22 +667,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:4
 U 1 1 5F23F7EF
-P 6650 3550
-F 0 "D3:4" H 6700 3775 50  0000 C CNN
-F 1 "1N4148" H 6700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 6850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 6850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 6850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 6850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 6850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 6850 4750 60  0001 L CNN "Status"
-	1    6650 3550
-	0    -1   -1   0   
+P 6650 3450
+F 0 "D3:4" H 6700 3675 50  0000 C CNN
+F 1 "1N4148" H 6700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 6850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 6850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 6850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 6850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 6850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6850 4650 60  0001 L CNN "Status"
+	1    6650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	7250 3650 7250 3950
@@ -720,22 +700,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:4
 U 1 1 5F23F808
-P 6650 4400
-F 0 "D2:4" H 6700 4625 50  0000 C CNN
-F 1 "1N4148" H 6700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 6850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 6850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 6850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 6850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 6850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 6850 5600 60  0001 L CNN "Status"
-	1    6650 4400
-	0    -1   -1   0   
+P 6650 4300
+F 0 "D2:4" H 6700 4525 50  0000 C CNN
+F 1 "1N4148" H 6700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 6850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 6850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 6850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 6850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 6850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6850 5500 60  0001 L CNN "Status"
+	1    6650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	7250 4500 7250 4800
@@ -753,44 +733,44 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:4
 U 1 1 5F23F821
-P 6650 5250
-F 0 "D1:4" H 6700 5475 50  0000 C CNN
-F 1 "1N4148" H 6700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 6850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 6850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 6850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 6850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 6850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 6850 6450 60  0001 L CNN "Status"
-	1    6650 5250
-	0    -1   -1   0   
+P 6650 5150
+F 0 "D1:4" H 6700 5375 50  0000 C CNN
+F 1 "1N4148" H 6700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 6850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 6850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 6850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 6850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 6850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 6850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 6850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 6850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 6850 6350 60  0001 L CNN "Status"
+	1    6650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	7250 5350 7250 5650
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:5
 U 1 1 5F25EC63
-P 7650 1850
-F 0 "D5:5" H 7700 2075 50  0000 C CNN
-F 1 "1N4148" H 7700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 7850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 7850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 7850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 7850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 7850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7850 3050 60  0001 L CNN "Status"
-	1    7650 1850
-	0    -1   -1   0   
+P 7650 1750
+F 0 "D5:5" H 7700 1975 50  0000 C CNN
+F 1 "1N4148" H 7700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 7850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 7850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 7850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 7850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 7850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 7850 2950 60  0001 L CNN "Status"
+	1    7650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	8250 1950 8250 2250
@@ -808,22 +788,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:5
 U 1 1 5F25EC7C
-P 7650 2700
-F 0 "D4:5" H 7700 2925 50  0000 C CNN
-F 1 "1N4148" H 7700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 7850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 7850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 7850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 7850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 7850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7850 3900 60  0001 L CNN "Status"
-	1    7650 2700
-	0    -1   -1   0   
+P 7650 2600
+F 0 "D4:5" H 7700 2825 50  0000 C CNN
+F 1 "1N4148" H 7700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 7850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 7850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 7850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 7850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 7850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 7850 3800 60  0001 L CNN "Status"
+	1    7650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	8250 2800 8250 3100
@@ -841,55 +821,44 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:5
 U 1 1 5F25EC95
-P 7650 3550
-F 0 "D3:5" H 7700 3775 50  0000 C CNN
-F 1 "1N4148" H 7700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 7850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 7850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 7850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 7850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 7850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7850 4750 60  0001 L CNN "Status"
-	1    7650 3550
-	0    -1   -1   0   
+P 7650 3450
+F 0 "D3:5" H 7700 3675 50  0000 C CNN
+F 1 "1N4148" H 7700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 7850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 7850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 7850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 7850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 7850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 7850 4650 60  0001 L CNN "Status"
+	1    7650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	8250 3650 8250 3950
 $Comp
-L keyboard:KEYSW K2:5
-U 1 1 5F25EC9F
-P 7950 4500
-F 0 "K2:5" H 7950 4733 60  0000 C CNN
-F 1 "KEYSW" H 7950 4400 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7950 4500 60  0001 C CNN
-F 3 "" H 7950 4500 60  0000 C CNN
-	1    7950 4500
-	1    0    0    -1  
-$EndComp
-$Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:5
 U 1 1 5F25ECAE
-P 7650 4400
-F 0 "D2:5" H 7700 4625 50  0000 C CNN
-F 1 "1N4148" H 7700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 7850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 7850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 7850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 7850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 7850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7850 5600 60  0001 L CNN "Status"
-	1    7650 4400
-	0    -1   -1   0   
+P 7650 4300
+F 0 "D2:5" H 7700 4525 50  0000 C CNN
+F 1 "1N4148" H 7700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 7850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 7850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 7850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 7850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 7850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 7850 5500 60  0001 L CNN "Status"
+	1    7650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	8250 4500 8250 4800
@@ -907,22 +876,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:6
 U 1 1 5F25ECE0
-P 8650 1850
-F 0 "D5:6" H 8700 2075 50  0000 C CNN
-F 1 "1N4148" H 8700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 8850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 8850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 8850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 8850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8850 3050 60  0001 L CNN "Status"
-	1    8650 1850
-	0    -1   -1   0   
+P 8650 1750
+F 0 "D5:6" H 8700 1975 50  0000 C CNN
+F 1 "1N4148" H 8700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 8850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 8850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 8850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 8850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8850 2950 60  0001 L CNN "Status"
+	1    8650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	9250 1950 9250 2250
@@ -940,22 +909,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:6
 U 1 1 5F25ECF9
-P 8650 2700
-F 0 "D4:6" H 8700 2925 50  0000 C CNN
-F 1 "1N4148" H 8700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 8850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 8850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 8850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 8850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8850 3900 60  0001 L CNN "Status"
-	1    8650 2700
-	0    -1   -1   0   
+P 8650 2600
+F 0 "D4:6" H 8700 2825 50  0000 C CNN
+F 1 "1N4148" H 8700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 8850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 8850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 8850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 8850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8850 3800 60  0001 L CNN "Status"
+	1    8650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	9250 2800 9250 3100
@@ -973,22 +942,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:6
 U 1 1 5F25ED12
-P 8650 3550
-F 0 "D3:6" H 8700 3775 50  0000 C CNN
-F 1 "1N4148" H 8700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 8850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 8850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 8850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 8850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8850 4750 60  0001 L CNN "Status"
-	1    8650 3550
-	0    -1   -1   0   
+P 8650 3450
+F 0 "D3:6" H 8700 3675 50  0000 C CNN
+F 1 "1N4148" H 8700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 8850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 8850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 8850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 8850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8850 4650 60  0001 L CNN "Status"
+	1    8650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	9250 3650 9250 3950
@@ -1006,22 +975,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:6
 U 1 1 5F25ED2B
-P 8650 4400
-F 0 "D2:6" H 8700 4625 50  0000 C CNN
-F 1 "1N4148" H 8700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 8850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 8850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 8850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 8850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8850 5600 60  0001 L CNN "Status"
-	1    8650 4400
-	0    -1   -1   0   
+P 8650 4300
+F 0 "D2:6" H 8700 4525 50  0000 C CNN
+F 1 "1N4148" H 8700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 8850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 8850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 8850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 8850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8850 5500 60  0001 L CNN "Status"
+	1    8650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	9250 4500 9250 4800
@@ -1039,22 +1008,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:7
 U 1 1 5F2686A2
-P 9650 1850
-F 0 "D5:7" H 9700 2075 50  0000 C CNN
-F 1 "1N4148" H 9700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 9850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 9850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 9850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 9850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 9850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9850 3050 60  0001 L CNN "Status"
-	1    9650 1850
-	0    -1   -1   0   
+P 9650 1750
+F 0 "D5:7" H 9700 1975 50  0000 C CNN
+F 1 "1N4148" H 9700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 9850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 9850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 9850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 9850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 9850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9850 2950 60  0001 L CNN "Status"
+	1    9650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	10250 1950 10250 2250
@@ -1072,22 +1041,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:7
 U 1 1 5F2686BB
-P 9650 2700
-F 0 "D4:7" H 9700 2925 50  0000 C CNN
-F 1 "1N4148" H 9700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 9850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 9850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 9850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 9850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 9850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9850 3900 60  0001 L CNN "Status"
-	1    9650 2700
-	0    -1   -1   0   
+P 9650 2600
+F 0 "D4:7" H 9700 2825 50  0000 C CNN
+F 1 "1N4148" H 9700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 9850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 9850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 9850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 9850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 9850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9850 3800 60  0001 L CNN "Status"
+	1    9650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	10250 2800 10250 3100
@@ -1105,22 +1074,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:7
 U 1 1 5F2686D4
-P 9650 3550
-F 0 "D3:7" H 9700 3775 50  0000 C CNN
-F 1 "1N4148" H 9700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 9850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 9850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 9850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 9850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 9850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9850 4750 60  0001 L CNN "Status"
-	1    9650 3550
-	0    -1   -1   0   
+P 9650 3450
+F 0 "D3:7" H 9700 3675 50  0000 C CNN
+F 1 "1N4148" H 9700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 9850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 9850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 9850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 9850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 9850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9850 4650 60  0001 L CNN "Status"
+	1    9650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	10250 3650 10250 3950
@@ -1138,22 +1107,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:7
 U 1 1 5F2686ED
-P 9650 4400
-F 0 "D2:7" H 9700 4625 50  0000 C CNN
-F 1 "1N4148" H 9700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 9850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 9850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 9850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 9850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 9850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9850 5600 60  0001 L CNN "Status"
-	1    9650 4400
-	0    -1   -1   0   
+P 9650 4300
+F 0 "D2:7" H 9700 4525 50  0000 C CNN
+F 1 "1N4148" H 9700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 9850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 9850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 9850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 9850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 9850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9850 5500 60  0001 L CNN "Status"
+	1    9650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	10250 4500 10250 4800
@@ -1171,22 +1140,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:8
 U 1 1 5F26871F
-P 10650 1850
-F 0 "D5:8" H 10700 2075 50  0000 C CNN
-F 1 "1N4148" H 10700 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 10850 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 10850 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 10850 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 10850 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 10850 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10850 3050 60  0001 L CNN "Status"
-	1    10650 1850
-	0    -1   -1   0   
+P 10650 1750
+F 0 "D5:8" H 10700 1975 50  0000 C CNN
+F 1 "1N4148" H 10700 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 10850 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 10850 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 10850 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 10850 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 10850 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10850 2950 60  0001 L CNN "Status"
+	1    10650 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	11250 1950 11250 2250
@@ -1204,22 +1173,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:8
 U 1 1 5F268738
-P 10650 2700
-F 0 "D4:8" H 10700 2925 50  0000 C CNN
-F 1 "1N4148" H 10700 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 10850 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 10850 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 10850 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 10850 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 10850 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10850 3900 60  0001 L CNN "Status"
-	1    10650 2700
-	0    -1   -1   0   
+P 10650 2600
+F 0 "D4:8" H 10700 2825 50  0000 C CNN
+F 1 "1N4148" H 10700 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 10850 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 10850 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 10850 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 10850 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 10850 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10850 3800 60  0001 L CNN "Status"
+	1    10650 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	11250 2800 11250 3100
@@ -1237,44 +1206,44 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:8
 U 1 1 5F268751
-P 10650 3550
-F 0 "D3:8" H 10700 3775 50  0000 C CNN
-F 1 "1N4148" H 10700 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 10850 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 10850 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 10850 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 10850 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 10850 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10850 4750 60  0001 L CNN "Status"
-	1    10650 3550
-	0    -1   -1   0   
+P 10650 3450
+F 0 "D3:8" H 10700 3675 50  0000 C CNN
+F 1 "1N4148" H 10700 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 10850 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 10850 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 10850 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 10850 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 10850 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10850 4650 60  0001 L CNN "Status"
+	1    10650 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	11250 3650 11250 3950
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:8
 U 1 1 5F26876A
-P 10650 4400
-F 0 "D2:8" H 10700 4625 50  0000 C CNN
-F 1 "1N4148" H 10700 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 10850 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 10850 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 10850 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 10850 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 10850 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10850 5600 60  0001 L CNN "Status"
-	1    10650 4400
-	0    -1   -1   0   
+P 10650 4300
+F 0 "D2:8" H 10700 4525 50  0000 C CNN
+F 1 "1N4148" H 10700 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 10850 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 10850 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 10850 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 10850 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 10850 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10850 5500 60  0001 L CNN "Status"
+	1    10650 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	11250 4500 11250 4800
@@ -1292,22 +1261,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:9
 U 1 1 5F2BD0B6
-P 11600 1850
-F 0 "D5:9" H 11650 2075 50  0000 C CNN
-F 1 "1N4148" H 11650 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 11800 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 11800 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 11800 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 11800 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 11800 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 11800 3050 60  0001 L CNN "Status"
-	1    11600 1850
-	0    -1   -1   0   
+P 11600 1750
+F 0 "D5:9" H 11650 1975 50  0000 C CNN
+F 1 "1N4148" H 11650 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 11800 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 11800 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 11800 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 11800 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 11800 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 11800 2950 60  0001 L CNN "Status"
+	1    11600 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	12200 1950 12200 2250
@@ -1325,22 +1294,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:9
 U 1 1 5F2BD0CF
-P 11600 2700
-F 0 "D4:9" H 11650 2925 50  0000 C CNN
-F 1 "1N4148" H 11650 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 11800 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 11800 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 11800 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 11800 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 11800 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 11800 3900 60  0001 L CNN "Status"
-	1    11600 2700
-	0    -1   -1   0   
+P 11600 2600
+F 0 "D4:9" H 11650 2825 50  0000 C CNN
+F 1 "1N4148" H 11650 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 11800 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 11800 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 11800 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 11800 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 11800 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 11800 3800 60  0001 L CNN "Status"
+	1    11600 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	12200 2800 12200 3100
@@ -1358,22 +1327,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:9
 U 1 1 5F2BD0E8
-P 11600 3550
-F 0 "D3:9" H 11650 3775 50  0000 C CNN
-F 1 "1N4148" H 11650 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 11800 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 11800 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 11800 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 11800 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 11800 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 11800 4750 60  0001 L CNN "Status"
-	1    11600 3550
-	0    -1   -1   0   
+P 11600 3450
+F 0 "D3:9" H 11650 3675 50  0000 C CNN
+F 1 "1N4148" H 11650 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 11800 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 11800 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 11800 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 11800 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 11800 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 11800 4650 60  0001 L CNN "Status"
+	1    11600 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	12200 3650 12200 3950
@@ -1391,22 +1360,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:9
 U 1 1 5F2BD101
-P 11600 4400
-F 0 "D2:9" H 11650 4625 50  0000 C CNN
-F 1 "1N4148" H 11650 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 11800 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 11800 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 11800 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 11800 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 11800 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 11800 5600 60  0001 L CNN "Status"
-	1    11600 4400
-	0    -1   -1   0   
+P 11600 4300
+F 0 "D2:9" H 11650 4525 50  0000 C CNN
+F 1 "1N4148" H 11650 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 11800 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 11800 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 11800 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 11800 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 11800 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 11800 5500 60  0001 L CNN "Status"
+	1    11600 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	12200 4500 12200 4800
@@ -1424,22 +1393,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:10
 U 1 1 5F2BD133
-P 12600 1850
-F 0 "D5:10" H 12650 2075 50  0000 C CNN
-F 1 "1N4148" H 12650 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 12800 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 12800 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 12800 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 12800 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 12800 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 12800 3050 60  0001 L CNN "Status"
-	1    12600 1850
-	0    -1   -1   0   
+P 12600 1750
+F 0 "D5:10" H 12650 1975 50  0000 C CNN
+F 1 "1N4148" H 12650 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 12800 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 12800 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 12800 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 12800 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 12800 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 12800 2950 60  0001 L CNN "Status"
+	1    12600 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	13200 1950 13200 2250
@@ -1457,22 +1426,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:10
 U 1 1 5F2BD14C
-P 12600 2700
-F 0 "D4:10" H 12650 2925 50  0000 C CNN
-F 1 "1N4148" H 12650 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 12800 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 12800 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 12800 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 12800 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 12800 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 12800 3900 60  0001 L CNN "Status"
-	1    12600 2700
-	0    -1   -1   0   
+P 12600 2600
+F 0 "D4:10" H 12650 2825 50  0000 C CNN
+F 1 "1N4148" H 12650 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 12800 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 12800 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 12800 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 12800 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 12800 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 12800 3800 60  0001 L CNN "Status"
+	1    12600 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	13200 2800 13200 3100
@@ -1490,22 +1459,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:10
 U 1 1 5F2BD165
-P 12600 3550
-F 0 "D3:10" H 12650 3775 50  0000 C CNN
-F 1 "1N4148" H 12650 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 12800 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 12800 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 12800 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 12800 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 12800 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 12800 4750 60  0001 L CNN "Status"
-	1    12600 3550
-	0    -1   -1   0   
+P 12600 3450
+F 0 "D3:10" H 12650 3675 50  0000 C CNN
+F 1 "1N4148" H 12650 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 12800 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 12800 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 12800 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 12800 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 12800 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 12800 4650 60  0001 L CNN "Status"
+	1    12600 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	13200 3650 13200 3950
@@ -1523,22 +1492,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:10
 U 1 1 5F2BD17E
-P 12600 4400
-F 0 "D2:10" H 12650 4625 50  0000 C CNN
-F 1 "1N4148" H 12650 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 12800 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 12800 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 12800 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 12800 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 12800 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 12800 5600 60  0001 L CNN "Status"
-	1    12600 4400
-	0    -1   -1   0   
+P 12600 4300
+F 0 "D2:10" H 12650 4525 50  0000 C CNN
+F 1 "1N4148" H 12650 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 12800 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 12800 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 12800 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 12800 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 12800 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 12800 5500 60  0001 L CNN "Status"
+	1    12600 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	13200 4500 13200 4800
@@ -1556,22 +1525,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:10
 U 1 1 5F2BD197
-P 12600 5250
-F 0 "D1:10" H 12650 5475 50  0000 C CNN
-F 1 "1N4148" H 12650 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 12800 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 12800 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 12800 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 12800 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 12800 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 12800 6450 60  0001 L CNN "Status"
-	1    12600 5250
-	0    -1   -1   0   
+P 12600 5150
+F 0 "D1:10" H 12650 5375 50  0000 C CNN
+F 1 "1N4148" H 12650 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 12800 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 12800 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 12800 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 12800 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 12800 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 12800 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12800 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 12800 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 12800 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 12800 6350 60  0001 L CNN "Status"
+	1    12600 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	13200 5350 13200 5650
@@ -1589,22 +1558,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:11
 U 1 1 5F377607
-P 13600 1850
-F 0 "D5:11" H 13650 2075 50  0000 C CNN
-F 1 "1N4148" H 13650 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 13800 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 13800 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 13800 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 13800 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 13800 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 13800 3050 60  0001 L CNN "Status"
-	1    13600 1850
-	0    -1   -1   0   
+P 13600 1750
+F 0 "D5:11" H 13650 1975 50  0000 C CNN
+F 1 "1N4148" H 13650 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 13800 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 13800 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 13800 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 13800 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 13800 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 13800 2950 60  0001 L CNN "Status"
+	1    13600 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	14200 1950 14200 2250
@@ -1622,22 +1591,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:11
 U 1 1 5F377620
-P 13600 2700
-F 0 "D4:11" H 13650 2925 50  0000 C CNN
-F 1 "1N4148" H 13650 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 13800 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 13800 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 13800 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 13800 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 13800 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 13800 3900 60  0001 L CNN "Status"
-	1    13600 2700
-	0    -1   -1   0   
+P 13600 2600
+F 0 "D4:11" H 13650 2825 50  0000 C CNN
+F 1 "1N4148" H 13650 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 13800 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 13800 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 13800 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 13800 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 13800 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 13800 3800 60  0001 L CNN "Status"
+	1    13600 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	14200 2800 14200 3100
@@ -1655,22 +1624,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:11
 U 1 1 5F377639
-P 13600 3550
-F 0 "D3:11" H 13650 3775 50  0000 C CNN
-F 1 "1N4148" H 13650 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 13800 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 13800 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 13800 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 13800 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 13800 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 13800 4750 60  0001 L CNN "Status"
-	1    13600 3550
-	0    -1   -1   0   
+P 13600 3450
+F 0 "D3:11" H 13650 3675 50  0000 C CNN
+F 1 "1N4148" H 13650 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 13800 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 13800 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 13800 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 13800 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 13800 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 13800 4650 60  0001 L CNN "Status"
+	1    13600 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	14200 3650 14200 3950
@@ -1688,22 +1657,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:11
 U 1 1 5F377652
-P 13600 4400
-F 0 "D2:11" H 13650 4625 50  0000 C CNN
-F 1 "1N4148" H 13650 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 13800 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 13800 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 13800 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 13800 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 13800 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 13800 5600 60  0001 L CNN "Status"
-	1    13600 4400
-	0    -1   -1   0   
+P 13600 4300
+F 0 "D2:11" H 13650 4525 50  0000 C CNN
+F 1 "1N4148" H 13650 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 13800 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 13800 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 13800 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 13800 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 13800 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 13800 5500 60  0001 L CNN "Status"
+	1    13600 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	14200 4500 14200 4800
@@ -1721,22 +1690,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:11
 U 1 1 5F37766B
-P 13600 5250
-F 0 "D1:11" H 13650 5475 50  0000 C CNN
-F 1 "1N4148" H 13650 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 13800 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 13800 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 13800 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 13800 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 13800 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 13800 6450 60  0001 L CNN "Status"
-	1    13600 5250
-	0    -1   -1   0   
+P 13600 5150
+F 0 "D1:11" H 13650 5375 50  0000 C CNN
+F 1 "1N4148" H 13650 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 13800 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 13800 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 13800 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 13800 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 13800 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 13800 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 13800 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 13800 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 13800 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 13800 6350 60  0001 L CNN "Status"
+	1    13600 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	14200 5350 14200 5650
@@ -1754,22 +1723,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:12
 U 1 1 5F377684
-P 14600 1850
-F 0 "D5:12" H 14650 2075 50  0000 C CNN
-F 1 "1N4148" H 14650 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 14800 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 14800 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 14800 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 14800 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 14800 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 14800 3050 60  0001 L CNN "Status"
-	1    14600 1850
-	0    -1   -1   0   
+P 14600 1750
+F 0 "D5:12" H 14650 1975 50  0000 C CNN
+F 1 "1N4148" H 14650 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 14800 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 14800 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 14800 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 14800 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 14800 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 14800 2950 60  0001 L CNN "Status"
+	1    14600 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	15200 1950 15200 2250
@@ -1787,22 +1756,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:12
 U 1 1 5F37769D
-P 14600 2700
-F 0 "D4:12" H 14650 2925 50  0000 C CNN
-F 1 "1N4148" H 14650 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 14800 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 14800 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 14800 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 14800 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 14800 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 14800 3900 60  0001 L CNN "Status"
-	1    14600 2700
-	0    -1   -1   0   
+P 14600 2600
+F 0 "D4:12" H 14650 2825 50  0000 C CNN
+F 1 "1N4148" H 14650 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 14800 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 14800 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 14800 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 14800 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 14800 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 14800 3800 60  0001 L CNN "Status"
+	1    14600 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	15200 2800 15200 3100
@@ -1820,22 +1789,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:12
 U 1 1 5F3776B6
-P 14600 3550
-F 0 "D3:12" H 14650 3775 50  0000 C CNN
-F 1 "1N4148" H 14650 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 14800 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 14800 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 14800 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 14800 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 14800 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 14800 4750 60  0001 L CNN "Status"
-	1    14600 3550
-	0    -1   -1   0   
+P 14600 3450
+F 0 "D3:12" H 14650 3675 50  0000 C CNN
+F 1 "1N4148" H 14650 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 14800 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 14800 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 14800 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 14800 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 14800 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 14800 4650 60  0001 L CNN "Status"
+	1    14600 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	15200 3650 15200 3950
@@ -1853,22 +1822,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:12
 U 1 1 5F3776E8
-P 14600 5250
-F 0 "D1:12" H 14650 5475 50  0000 C CNN
-F 1 "1N4148" H 14650 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 14800 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 14800 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 14800 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 14800 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 14800 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 14800 6450 60  0001 L CNN "Status"
-	1    14600 5250
-	0    -1   -1   0   
+P 14600 5150
+F 0 "D1:12" H 14650 5375 50  0000 C CNN
+F 1 "1N4148" H 14650 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 14800 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 14800 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 14800 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 14800 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 14800 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 14800 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 14800 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 14800 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 14800 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 14800 6350 60  0001 L CNN "Status"
+	1    14600 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	15200 5350 15200 5650
@@ -1886,22 +1855,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:13
 U 1 1 5F377701
-P 15550 1850
-F 0 "D5:13" H 15600 2075 50  0000 C CNN
-F 1 "1N4148" H 15600 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 15750 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 15750 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 15750 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 15750 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 15750 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15750 3050 60  0001 L CNN "Status"
-	1    15550 1850
-	0    -1   -1   0   
+P 15550 1750
+F 0 "D5:13" H 15600 1975 50  0000 C CNN
+F 1 "1N4148" H 15600 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 15750 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 15750 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 15750 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 15750 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 15750 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 15750 2950 60  0001 L CNN "Status"
+	1    15550 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	16150 1950 16150 2250
@@ -1919,22 +1888,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:13
 U 1 1 5F37771A
-P 15550 2700
-F 0 "D4:13" H 15600 2925 50  0000 C CNN
-F 1 "1N4148" H 15600 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 15750 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 15750 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 15750 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 15750 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 15750 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15750 3900 60  0001 L CNN "Status"
-	1    15550 2700
-	0    -1   -1   0   
+P 15550 2600
+F 0 "D4:13" H 15600 2825 50  0000 C CNN
+F 1 "1N4148" H 15600 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 15750 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 15750 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 15750 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 15750 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 15750 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 15750 3800 60  0001 L CNN "Status"
+	1    15550 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	16150 2800 16150 3100
@@ -1952,22 +1921,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D3:13
 U 1 1 5F377733
-P 15550 3550
-F 0 "D3:13" H 15600 3775 50  0000 C CNN
-F 1 "1N4148" H 15600 3684 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 3750 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 3850 60  0001 L CNN
-F 4 "1N4148FS-ND" H 15750 3950 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 15750 4050 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 15750 4150 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 15750 4250 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 4350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 4450 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 4550 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 15750 4650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15750 4750 60  0001 L CNN "Status"
-	1    15550 3550
-	0    -1   -1   0   
+P 15550 3450
+F 0 "D3:13" H 15600 3675 50  0000 C CNN
+F 1 "1N4148" H 15600 3584 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 3650 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 3750 60  0001 L CNN
+F 4 "1N4148FS-ND" H 15750 3850 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 15750 3950 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 15750 4050 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 15750 4150 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 4250 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 4350 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 4450 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 15750 4550 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 15750 4650 60  0001 L CNN "Status"
+	1    15550 3450
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	16150 3650 16150 3950
@@ -1985,22 +1954,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D2:13
 U 1 1 5F37774C
-P 15550 4400
-F 0 "D2:13" H 15600 4625 50  0000 C CNN
-F 1 "1N4148" H 15600 4534 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 4600 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 4700 60  0001 L CNN
-F 4 "1N4148FS-ND" H 15750 4800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 15750 4900 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 15750 5000 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 15750 5100 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 5200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 5300 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 5400 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 15750 5500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15750 5600 60  0001 L CNN "Status"
-	1    15550 4400
-	0    -1   -1   0   
+P 15550 4300
+F 0 "D2:13" H 15600 4525 50  0000 C CNN
+F 1 "1N4148" H 15600 4434 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 4500 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 4600 60  0001 L CNN
+F 4 "1N4148FS-ND" H 15750 4700 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 15750 4800 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 15750 4900 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 15750 5000 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 5100 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 5200 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 5300 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 15750 5400 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 15750 5500 60  0001 L CNN "Status"
+	1    15550 4300
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	16150 4500 16150 4800
@@ -2018,22 +1987,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:13
 U 1 1 5F377765
-P 15550 5250
-F 0 "D1:13" H 15600 5475 50  0000 C CNN
-F 1 "1N4148" H 15600 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 15750 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 15750 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 15750 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 15750 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 15750 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15750 6450 60  0001 L CNN "Status"
-	1    15550 5250
-	0    -1   -1   0   
+P 15550 5150
+F 0 "D1:13" H 15600 5375 50  0000 C CNN
+F 1 "1N4148" H 15600 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 15750 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 15750 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 15750 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 15750 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 15750 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 15750 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 15750 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 15750 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 15750 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 15750 6350 60  0001 L CNN "Status"
+	1    15550 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	16150 5350 16150 5650
@@ -2051,22 +2020,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D5:14
 U 1 1 5F37777E
-P 16550 1850
-F 0 "D5:14" H 16600 2075 50  0000 C CNN
-F 1 "1N4148" H 16600 1984 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 16750 2050 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 2150 60  0001 L CNN
-F 4 "1N4148FS-ND" H 16750 2250 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 16750 2350 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 16750 2450 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 16750 2550 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 2650 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 16750 2750 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 16750 2850 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 16750 2950 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 16750 3050 60  0001 L CNN "Status"
-	1    16550 1850
-	0    -1   -1   0   
+P 16550 1750
+F 0 "D5:14" H 16600 1975 50  0000 C CNN
+F 1 "1N4148" H 16600 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 16750 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 16750 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 16750 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 16750 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 16750 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 16750 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 16750 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 16750 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 16750 2950 60  0001 L CNN "Status"
+	1    16550 1750
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	17150 1950 17150 2250
@@ -2084,22 +2053,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D4:14
 U 1 1 5F377797
-P 16550 2700
-F 0 "D4:14" H 16600 2925 50  0000 C CNN
-F 1 "1N4148" H 16600 2834 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 16750 2900 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 3000 60  0001 L CNN
-F 4 "1N4148FS-ND" H 16750 3100 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 16750 3200 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 16750 3300 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 16750 3400 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 3500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 16750 3600 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 16750 3700 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 16750 3800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 16750 3900 60  0001 L CNN "Status"
-	1    16550 2700
-	0    -1   -1   0   
+P 16550 2600
+F 0 "D4:14" H 16600 2825 50  0000 C CNN
+F 1 "1N4148" H 16600 2734 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 16750 2800 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 2900 60  0001 L CNN
+F 4 "1N4148FS-ND" H 16750 3000 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 16750 3100 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 16750 3200 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 16750 3300 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 3400 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 16750 3500 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 16750 3600 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 16750 3700 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 16750 3800 60  0001 L CNN "Status"
+	1    16550 2600
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	17150 2800 17150 3100
@@ -2117,22 +2086,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:14
 U 1 1 5F3777E2
-P 16550 5250
-F 0 "D1:14" H 16600 5475 50  0000 C CNN
-F 1 "1N4148" H 16600 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 16750 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 16750 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 16750 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 16750 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 16750 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 16750 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 16750 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 16750 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 16750 6450 60  0001 L CNN "Status"
-	1    16550 5250
-	0    -1   -1   0   
+P 16550 5150
+F 0 "D1:14" H 16600 5375 50  0000 C CNN
+F 1 "1N4148" H 16600 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 16750 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 16750 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 16750 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 16750 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 16750 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 16750 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 16750 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 16750 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 16750 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 16750 6350 60  0001 L CNN "Status"
+	1    16550 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	17150 5350 17150 5650
@@ -2150,22 +2119,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:5
 U 1 1 5F3FE62C
-P 7650 5250
-F 0 "D1:5" H 7700 5475 50  0000 C CNN
-F 1 "1N4148" H 7700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 7850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 7850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 7850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 7850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 7850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7850 6450 60  0001 L CNN "Status"
-	1    7650 5250
-	0    -1   -1   0   
+P 7650 5150
+F 0 "D1:5" H 7700 5375 50  0000 C CNN
+F 1 "1N4148" H 7700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 7850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 7850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 7850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 7850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 7850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 7850 6350 60  0001 L CNN "Status"
+	1    7650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	8250 5350 8250 5650
@@ -2183,22 +2152,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:6
 U 1 1 5F418FCF
-P 8650 5250
-F 0 "D1:6" H 8700 5475 50  0000 C CNN
-F 1 "1N4148" H 8700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 8850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 8850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 8850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 8850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 8850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8850 6450 60  0001 L CNN "Status"
-	1    8650 5250
-	0    -1   -1   0   
+P 8650 5150
+F 0 "D1:6" H 8700 5375 50  0000 C CNN
+F 1 "1N4148" H 8700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 8850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 8850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 8850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 8850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 8850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 8850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 8850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 8850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8850 6350 60  0001 L CNN "Status"
+	1    8650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	9250 5350 9250 5650
@@ -2423,7 +2392,6 @@ Wire Wire Line
 Connection ~ 16450 5650
 Wire Wire Line
 	16450 5650 16450 6650
-Connection ~ 4650 1650
 Text GLabel 4750 9050 2    50   Input ~ 0
 Row1
 Text GLabel 4750 8950 2    50   Input ~ 0
@@ -2485,7 +2453,7 @@ F 12 "Active" H 7550 10550 60  0001 L CNN "Status"
 	1    0    0    -1  
 $EndComp
 Text GLabel 7850 9250 2    50   Input ~ 0
-Row4
+Row2
 Text GLabel 7050 9250 0    50   Input ~ 0
 Col0
 $Comp
@@ -2646,22 +2614,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 DVol1
 U 1 1 6127B97A
-P 7650 9250
-F 0 "DVol1" H 7700 9035 50  0000 C CNN
-F 1 "1N4148" H 7700 9126 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7850 9450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 9550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 7850 9650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 7850 9750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 7850 9850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 7850 9950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7850 10050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7850 10150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 7850 10250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 7850 10350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7850 10450 60  0001 L CNN "Status"
-	1    7650 9250
-	1    0    0    -1  
+P 7750 9250
+F 0 "DVol1" H 7800 9035 50  0000 C CNN
+F 1 "1N4148" H 7800 9126 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 7950 9450 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7950 9550 60  0001 L CNN
+F 4 "1N4148FS-ND" H 7950 9650 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 7950 9750 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 7950 9850 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 7950 9950 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 7950 10050 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7950 10150 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 7950 10250 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 7950 10350 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 7950 10450 60  0001 L CNN "Status"
+	1    7750 9250
+	-1   0    0    1   
 $EndComp
 $Comp
 L MCU_Microchip_ATmega:ATmega32A-PU U1
@@ -2696,22 +2664,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:9
 U 1 1 5F67E098
-P 11600 5250
-F 0 "D1:9" H 11650 5475 50  0000 C CNN
-F 1 "1N4148" H 11650 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 11800 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 11800 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 11800 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 11800 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 11800 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 11800 6450 60  0001 L CNN "Status"
-	1    11600 5250
-	0    -1   -1   0   
+P 11600 5150
+F 0 "D1:9" H 11650 5375 50  0000 C CNN
+F 1 "1N4148" H 11650 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 11800 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 11800 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 11800 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 11800 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 11800 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 11800 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11800 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 11800 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 11800 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 11800 6350 60  0001 L CNN "Status"
+	1    11600 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	12200 5350 12200 5650
@@ -2729,22 +2697,22 @@ $EndComp
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:8
 U 1 1 5F6E86CF
-P 10650 5250
-F 0 "D1:8" H 10700 5475 50  0000 C CNN
-F 1 "1N4148" H 10700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 10850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 10850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 10850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 10850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 10850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 10850 6450 60  0001 L CNN "Status"
-	1    10650 5250
-	0    -1   -1   0   
+P 10650 5150
+F 0 "D1:8" H 10700 5375 50  0000 C CNN
+F 1 "1N4148" H 10700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 10850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 10850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 10850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 10850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 10850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 10850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 10850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 10850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 10850 6350 60  0001 L CNN "Status"
+	1    10650 5150
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	11250 5350 11250 5650
@@ -3243,22 +3211,22 @@ Wire Wire Line
 $Comp
 L dk_Diodes-Rectifiers-Single:1N4148 D1:7
 U 1 1 5F268706
-P 9650 5250
-F 0 "D1:7" H 9700 5475 50  0000 C CNN
-F 1 "1N4148" H 9700 5384 50  0000 C CNN
-F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 5450 60  0001 L CNN
-F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 5550 60  0001 L CNN
-F 4 "1N4148FS-ND" H 9850 5650 60  0001 L CNN "Digi-Key_PN"
-F 5 "1N4148" H 9850 5750 60  0001 L CNN "MPN"
-F 6 "Discrete Semiconductor Products" H 9850 5850 60  0001 L CNN "Category"
-F 7 "Diodes - Rectifiers - Single" H 9850 5950 60  0001 L CNN "Family"
-F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 6050 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 6150 60  0001 L CNN "DK_Detail_Page"
-F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 6250 60  0001 L CNN "Description"
-F 11 "ON Semiconductor" H 9850 6350 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9850 6450 60  0001 L CNN "Status"
-	1    9650 5250
-	0    -1   -1   0   
+P 9650 5150
+F 0 "D1:7" H 9700 5375 50  0000 C CNN
+F 1 "1N4148" H 9700 5284 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 9850 5350 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 5450 60  0001 L CNN
+F 4 "1N4148FS-ND" H 9850 5550 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 9850 5650 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 9850 5750 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 9850 5850 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 9850 5950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9850 6050 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 9850 6150 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 9850 6250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9850 6350 60  0001 L CNN "Status"
+	1    9650 5150
+	0    1    1    0   
 $EndComp
 $Comp
 L keyboard:KEYSW K1:7
@@ -3338,16 +3306,7 @@ F 3 "" H 3200 9350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 3200 9350
-Wire Wire Line
-	2400 1650 2700 1650
-Connection ~ 2700 1650
-Wire Wire Line
-	2700 1650 3650 1650
 Connection ~ 3650 1650
-Wire Wire Line
-	3650 1650 4650 1650
-Wire Wire Line
-	4650 1650 5650 1650
 Connection ~ 15550 1650
 Wire Wire Line
 	15550 1650 16550 1650
@@ -3372,15 +3331,7 @@ Wire Wire Line
 Connection ~ 8650 1650
 Wire Wire Line
 	8650 1650 9650 1650
-Connection ~ 7650 1650
-Wire Wire Line
-	7650 1650 8650 1650
 Connection ~ 6650 1650
-Wire Wire Line
-	6650 1650 7650 1650
-Connection ~ 5650 1650
-Wire Wire Line
-	5650 1650 6650 1650
 Wire Wire Line
 	2400 2500 2700 2500
 Connection ~ 15550 2500
@@ -3393,8 +3344,6 @@ Connection ~ 13600 2500
 Wire Wire Line
 	13600 2500 14600 2500
 Connection ~ 12600 2500
-Wire Wire Line
-	12600 2500 13600 2500
 Connection ~ 11600 2500
 Wire Wire Line
 	11600 2500 12600 2500
@@ -3695,4 +3644,55 @@ Wire Wire Line
 	15450 2250 16150 2250
 Wire Wire Line
 	7050 9450 6550 9450
+$Comp
+L keyboard:KEYSW K2:5
+U 1 1 5F25EC9F
+P 7950 4500
+F 0 "K2:5" H 7950 4733 60  0000 C CNN
+F 1 "KEYSW" H 7950 4400 60  0001 C CNN
+F 2 "keebs:Mx_Alps_100" H 7950 4500 60  0001 C CNN
+F 3 "" H 7950 4500 60  0000 C CNN
+	1    7950 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 1650 2700 1650
+$Comp
+L dk_Diodes-Rectifiers-Single:1N4148 D5:0
+U 1 1 5F20A273
+P 2700 1750
+F 0 "D5:0" H 2750 1975 50  0000 C CNN
+F 1 "1N4148" H 2750 1884 50  0000 C CNN
+F 2 "cftkb:D_DO-35_SOD27_P5.08mm_Horizontal" H 2900 1950 60  0001 L CNN
+F 3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 2050 60  0001 L CNN
+F 4 "1N4148FS-ND" H 2900 2150 60  0001 L CNN "Digi-Key_PN"
+F 5 "1N4148" H 2900 2250 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 2900 2350 60  0001 L CNN "Category"
+F 7 "Diodes - Rectifiers - Single" H 2900 2450 60  0001 L CNN "Family"
+F 8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" H 2900 2550 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2900 2650 60  0001 L CNN "DK_Detail_Page"
+F 10 "DIODE GEN PURP 100V 200MA DO35" H 2900 2750 60  0001 L CNN "Description"
+F 11 "ON Semiconductor" H 2900 2850 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 2900 2950 60  0001 L CNN "Status"
+	1    2700 1750
+	0    1    1    0   
+$EndComp
+Connection ~ 2700 1650
+Wire Wire Line
+	2700 1650 3650 1650
+Wire Wire Line
+	3650 1650 4650 1650
+Connection ~ 4650 1650
+Wire Wire Line
+	4650 1650 5650 1650
+Connection ~ 5650 1650
+Wire Wire Line
+	5650 1650 6650 1650
+Wire Wire Line
+	6650 1650 7650 1650
+Connection ~ 7650 1650
+Wire Wire Line
+	7650 1650 8650 1650
+Wire Wire Line
+	12600 2500 13600 2500
 $EndSCHEMATC
