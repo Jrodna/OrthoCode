@@ -2392,45 +2392,45 @@ Wire Wire Line
 Connection ~ 16450 5650
 Wire Wire Line
 	16450 5650 16450 6650
-Text GLabel 4750 9050 2    50   Input ~ 0
+Text GLabel 4750 9950 2    50   Input ~ 0
 Row1
-Text GLabel 4750 8950 2    50   Input ~ 0
+Text GLabel 4750 9850 2    50   Input ~ 0
 Row2
-Text GLabel 4750 8850 2    50   Input ~ 0
+Text GLabel 4750 9750 2    50   Input ~ 0
 Row3
-Text GLabel 4750 8750 2    50   Input ~ 0
+Text GLabel 4750 9650 2    50   Input ~ 0
 Row4
-Text GLabel 4750 8650 2    50   Input ~ 0
+Text GLabel 4750 9550 2    50   Input ~ 0
 Row5
-Text GLabel 4750 11150 2    50   Input ~ 0
-Col0
-Text GLabel 4750 11050 2    50   Input ~ 0
-Col1
 Text GLabel 4750 10850 2    50   Input ~ 0
-Col3
-Text GLabel 4750 10950 2    50   Input ~ 0
-Col2
+Col0
 Text GLabel 4750 10750 2    50   Input ~ 0
+Col1
+Text GLabel 4750 10550 2    50   Input ~ 0
+Col3
+Text GLabel 4750 10650 2    50   Input ~ 0
+Col2
+Text GLabel 4750 10450 2    50   Input ~ 0
 Col4
-Text GLabel 4750 9150 2    50   Input ~ 0
+Text GLabel 4750 12050 2    50   Input ~ 0
 Col5
-Text GLabel 4750 9250 2    50   Input ~ 0
+Text GLabel 4750 11950 2    50   Input ~ 0
 Col6
 Text GLabel 4750 9350 2    50   Input ~ 0
 Col7
-Text GLabel 4750 9550 2    50   Input ~ 0
+Text GLabel 4750 9050 2    50   Input ~ 0
 Col8
-Text GLabel 4750 9650 2    50   Input ~ 0
+Text GLabel 4750 9150 2    50   Input ~ 0
 Col9
-Text GLabel 4750 9750 2    50   Input ~ 0
+Text GLabel 4750 9250 2    50   Input ~ 0
 Col10
-Text GLabel 4750 9850 2    50   Input ~ 0
+Text GLabel 4750 8950 2    50   Input ~ 0
 Col11
-Text GLabel 4750 9950 2    50   Input ~ 0
+Text GLabel 4750 8850 2    50   Input ~ 0
 Col12
-Text GLabel 4750 10450 2    50   Input ~ 0
+Text GLabel 4750 8750 2    50   Input ~ 0
 Col13
-Text GLabel 4750 10550 2    50   Input ~ 0
+Text GLabel 4750 8650 2    50   Input ~ 0
 Col14
 $Comp
 L dk_Encoders:PEC11R-4215F-S0024 SVol1
@@ -2476,17 +2476,6 @@ ChannelA
 Text GLabel 4750 11350 2    50   Input ~ 0
 ChannelB
 $Comp
-L Device:C C3
-U 1 1 60B75C8D
-P 6500 11650
-F 0 "C3" H 6615 11696 50  0000 L CNN
-F 1 "0.1u" H 6615 11605 50  0000 L CNN
-F 2 "cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6538 11500 50  0001 C CNN
-F 3 "~" H 6500 11650 50  0001 C CNN
-	1    6500 11650
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0109
 U 1 1 60B76BDF
 P 6500 12150
@@ -2497,98 +2486,55 @@ F 3 "" H 6500 12150 50  0001 C CNN
 	1    6500 12150
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:C C3
+U 1 1 60BF8C1C
+P 6500 11650
+F 0 "C3" H 6615 11696 50  0000 L CNN
+F 1 "0.1u" H 6615 11605 50  0000 L CNN
+F 2 "cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6538 11500 50  0001 C CNN
+F 3 "~" H 6500 11650 50  0001 C CNN
+	1    6500 11650
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	6500 11350 6500 11500
 Wire Wire Line
 	6500 12000 6500 11800
 $Comp
 L Device:C C4
-U 1 1 60BF8C1C
-P 6850 11650
-F 0 "C4" H 6965 11696 50  0000 L CNN
-F 1 "0.1u" H 6965 11605 50  0000 L CNN
-F 2 "cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6888 11500 50  0001 C CNN
-F 3 "~" H 6850 11650 50  0001 C CNN
-	1    6850 11650
+U 1 1 60C396FA
+P 6900 11650
+F 0 "C4" H 7015 11696 50  0000 L CNN
+F 1 "0.1u" H 7015 11605 50  0000 L CNN
+F 2 "cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 6938 11500 50  0001 C CNN
+F 3 "~" H 6900 11650 50  0001 C CNN
+	1    6900 11650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6850 11350 6850 11500
+	6900 11350 6900 11500
 Wire Wire Line
-	6850 12000 6850 11800
+	6900 12000 6900 11800
 $Comp
 L Device:C C5
-U 1 1 60C396FA
-P 7200 11650
-F 0 "C5" H 7315 11696 50  0000 L CNN
-F 1 "0.1u" H 7315 11605 50  0000 L CNN
-F 2 "cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 7238 11500 50  0001 C CNN
-F 3 "~" H 7200 11650 50  0001 C CNN
-	1    7200 11650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7200 11350 7200 11500
-Wire Wire Line
-	7200 12000 7200 11800
-$Comp
-L Device:C C6
-U 1 1 60C7AC53
-P 7550 11650
-F 0 "C6" H 7665 11696 50  0000 L CNN
-F 1 "0.1u" H 7665 11605 50  0000 L CNN
-F 2 "cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 7588 11500 50  0001 C CNN
-F 3 "~" H 7550 11650 50  0001 C CNN
-	1    7550 11650
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7550 11350 7550 11500
-Wire Wire Line
-	7550 12000 7550 11800
-$Comp
-L Device:C C7
 U 1 1 60CBCBBC
-P 7900 11650
-F 0 "C7" H 8015 11696 50  0000 L CNN
-F 1 "4.7u" H 8015 11605 50  0000 L CNN
-F 2 "cftkb:CP_Radial_D4.0mm_P1.50mm" H 7938 11500 50  0001 C CNN
-F 3 "~" H 7900 11650 50  0001 C CNN
-	1    7900 11650
+P 7300 11650
+F 0 "C5" H 7415 11696 50  0000 L CNN
+F 1 "4.7u" H 7415 11605 50  0000 L CNN
+F 2 "cftkb:CP_Radial_D4.0mm_P1.50mm" H 7338 11500 50  0001 C CNN
+F 3 "~" H 7300 11650 50  0001 C CNN
+	1    7300 11650
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7900 11350 7900 11500
+	7300 11350 7300 11500
 Wire Wire Line
-	7900 12000 7900 11800
-Wire Wire Line
-	6500 11350 6850 11350
-Connection ~ 6850 11350
-Wire Wire Line
-	6850 11350 7200 11350
-Connection ~ 7200 11350
-Wire Wire Line
-	7200 11350 7550 11350
-Connection ~ 7550 11350
-Wire Wire Line
-	7550 11350 7900 11350
-Wire Wire Line
-	7900 12000 7550 12000
-Connection ~ 6850 12000
-Wire Wire Line
-	6850 12000 6500 12000
-Connection ~ 7200 12000
-Wire Wire Line
-	7200 12000 6850 12000
-Connection ~ 7550 12000
-Wire Wire Line
-	7550 12000 7200 12000
+	7300 12000 7300 11800
 Wire Wire Line
 	6500 12000 6500 12150
-Connection ~ 6500 12000
 Wire Wire Line
 	6500 11350 6500 11200
-Connection ~ 6500 11350
 $Comp
 L Device:C_Small C2
 U 1 1 61097850
@@ -2738,9 +2684,6 @@ F 3 "" H 4150 12350 50  0001 C CNN
 	1    4150 12350
 	1    0    0    -1  
 $EndComp
-NoConn ~ 4750 10650
-NoConn ~ 4750 11850
-NoConn ~ 4750 11950
 NoConn ~ 7050 9650
 Text GLabel 4750 10050 2    50   Input ~ 0
 MOSI
@@ -2839,17 +2782,6 @@ Wire Wire Line
 Wire Wire Line
 	9450 12450 9250 12450
 Connection ~ 9450 12450
-$Comp
-L power:VCC #PWR0105
-U 1 1 5FA7064B
-P 9450 12150
-F 0 "#PWR0105" H 9450 12000 50  0001 C CNN
-F 1 "VCC" H 9465 12323 50  0000 C CNN
-F 2 "" H 9450 12150 50  0001 C CNN
-F 3 "" H 9450 12150 50  0001 C CNN
-	1    9450 12150
-	1    0    0    -1  
-$EndComp
 Text Label 9700 10950 2    197  ~ 0
 RESET
 $Comp
@@ -3292,7 +3224,7 @@ F 3 "" H 12750 11550 50  0001 C CNN
 $EndComp
 Text GLabel 12750 11650 2    50   Input ~ 0
 RGB
-Text GLabel 4750 12050 2    50   Input ~ 0
+Text GLabel 4750 11850 2    50   Input ~ 0
 RGB
 $Comp
 L power:GND #PWR0120
@@ -3695,4 +3627,30 @@ Wire Wire Line
 	7650 1650 8650 1650
 Wire Wire Line
 	12600 2500 13600 2500
+$Comp
+L power:+5V #PWR0105
+U 1 1 61F11C4F
+P 9450 12150
+F 0 "#PWR0105" H 9450 12000 50  0001 C CNN
+F 1 "+5V" H 9465 12323 50  0000 C CNN
+F 2 "" H 9450 12150 50  0001 C CNN
+F 3 "" H 9450 12150 50  0001 C CNN
+	1    9450 12150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4750 10950
+NoConn ~ 4750 11050
+NoConn ~ 4750 11150
+Connection ~ 6500 11350
+Connection ~ 6500 12000
+Connection ~ 6900 11350
+Wire Wire Line
+	6900 11350 7300 11350
+Connection ~ 6900 12000
+Wire Wire Line
+	6900 12000 7300 12000
+Wire Wire Line
+	6500 11350 6900 11350
+Wire Wire Line
+	6500 12000 6900 12000
 $EndSCHEMATC
