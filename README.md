@@ -1,6 +1,7 @@
 # OrthoCode
 Custom keyboard designed by me
-https://github.com/Jrodna/OrthoCode/blob/master/images/layout.png
+![Layout Image]
+(https://github.com/Jrodna/OrthoCode/blob/master/images/layout.png)
 
 
 The aim was to create a layout that would take advantage of what your thumbs can do to help with ergonomics.
@@ -13,10 +14,12 @@ While also keeping compatibility with the controls of most games and allowing st
 
 
 PCB
-https://github.com/Jrodna/OrthoCode/blob/master/images/PCB.png
+![PCB Image]
+(https://github.com/Jrodna/OrthoCode/blob/master/images/PCB.png)
 
 3D View
-https://github.com/Jrodna/OrthoCode/blob/master/images/3dView.png
+![3D View Image]
+(https://github.com/Jrodna/OrthoCode/blob/master/images/3dView.png)
 
 
 
