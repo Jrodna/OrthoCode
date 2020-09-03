@@ -3653,4 +3653,8 @@ Wire Wire Line
 	6500 11350 6900 11350
 Wire Wire Line
 	6500 12000 6900 12000
+Text GLabel 12600 9350 1    50   Input ~ 0
+usbD-
+Text GLabel 12250 9550 1    50   Input ~ 0
+usbD+
 $EndSCHEMATC
