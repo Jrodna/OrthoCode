@@ -6,4 +6,5 @@
   (lib (name keebs)(type KiCad)(uri ${KIPRJMOD}/libraries/keebs.pretty)(options "")(descr ""))
   (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/libraries/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
   (lib (name cftkb)(type KiCad)(uri ${KIPRJMOD}/libraries/cftkb.pretty)(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/libraries/graphics.pretty)(options "")(descr ""))
 )
