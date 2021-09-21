@@ -20,6 +20,9 @@ https://orthocodekb.com/
 # PCB
 ![PCB Image](https://github.com/Jrodna/OrthoCode/blob/master/images/1.0%20PCB.PNG)
 
+# BOM
+[Octopart parts list](https://octopart.com/bom-tool/VurG2dVY)
+
 # Prototype Photos
 ![](https://github.com/Jrodna/OrthoCode/blob/master/images/0.jpg)
 ![](https://github.com/Jrodna/OrthoCode/blob/master/images/1.jpg)
