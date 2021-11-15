@@ -16,6 +16,7 @@ https://orthocodekb.com/
 - Case updated to have even thickness either side of screws
 
 # [Build Guide](https://docs.google.com/document/d/1nWpPh-oH03j4JtJZUHaI0wIrHX6gjucpwuYNbipHhU0/edit?usp=sharing)
+# [Flashing Guide](https://docs.google.com/document/d/1nAf7OWkI6dcUZ9Cg3KUXB8WHUz0CQ5AS2SiLe1XIzos/edit?usp=sharing)
 
 # PCB
 ![PCB Image](https://github.com/Jrodna/OrthoCode/blob/master/images/1.0%20PCB.PNG)
