@@ -7,7 +7,7 @@ While also keeping compatibility with the controls of most games and allowing st
 Check out the store at:
 https://orthocodekb.com/
 
-![Layout Image](https://github.com/Jrodna/OrthoCode/blob/master/images/layout.png)
+![Layout Image](https://github.com/Jrodna/OrthoCode/blob/master/images/keyboard-layout.jpg)
 
 # Version 1.0
 - Larger footprints for resistors
@@ -24,12 +24,14 @@ https://orthocodekb.com/
 [Octopart parts list](https://octopart.com/bom-tool/VurG2dVY)
 
 # Prototype Photos
-![](https://github.com/Jrodna/OrthoCode/blob/master/images/0.jpg)
-![](https://github.com/Jrodna/OrthoCode/blob/master/images/1.jpg)
-![](https://github.com/Jrodna/OrthoCode/blob/master/images/2.jpg)
-![](https://github.com/Jrodna/OrthoCode/blob/master/images/3.jpg)
-![](https://github.com/Jrodna/OrthoCode/blob/master/images/4.jpg)
-![](https://github.com/Jrodna/OrthoCode/blob/master/images/5.jpg)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5573.JPG)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5571.JPG)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5576.png)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5580.JPG)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5581.JPG)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5586.JPG)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5587.JPG)
+![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5604.JPG)
 
 # Sound Test
 
