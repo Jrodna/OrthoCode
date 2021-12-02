@@ -24,7 +24,7 @@ https://orthocodekb.com/
 # BOM
 [Octopart parts list](https://octopart.com/bom-tool/VurG2dVY)
 
-# Prototype Photos
+# Production Photos
 ![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5573.JPG)
 ![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5571.JPG)
 ![](https://github.com/Jrodna/OrthoCode/blob/master/images/IMG_5576.png)
