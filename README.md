@@ -4,8 +4,9 @@ Custom keyboard designed by me
 The aim was to create a layout that would take advantage of what your thumbs can do to help with ergonomics.
 While also keeping compatibility with the controls of most games and allowing standard keycaps to be used.
 
-Check out the store at:
-https://orthocodekb.com/
+## The store is now closed
+There are still some units for sale, if you would like to purchase one for NZD 280 + shipping please contact me directly at orthocodekb@gmail.com
+Happy to discuss doing the build for you / soldering some components before sending it out at no additional cost.
 
 ![Layout Image](https://github.com/Jrodna/OrthoCode/blob/master/images/keyboard-layout.jpg)
 
