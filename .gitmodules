@@ -1,0 +1,6 @@
+[submodule "libraries/digikey-kicad-library"]
+	path = libraries/digikey-kicad-library
+	url = git@github.com:Digi-Key/digikey-kicad-library.git
+[submodule "libraries/keyswitch-kicad-library"]
+	path = libraries/keyswitch-kicad-library
+	url = git@github.com:perigoso/keyswitch-kicad-library.git
