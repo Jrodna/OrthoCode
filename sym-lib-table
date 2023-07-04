@@ -154,4 +154,5 @@
   (lib (name "keyboard")(type "Legacy")(uri "${KIPRJMOD}/libraries/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
   (lib (name "orthoCode-rescue")(type "Legacy")(uri "${KIPRJMOD}/orthoCode-rescue.lib")(options "")(descr ""))
   (lib (name "105450-0101")(type "KiCad")(uri "${KIPRJMOD}/libraries/105450-0101/105450-0101.kicad_sym")(options "")(descr ""))
+  (lib (name "pro micro")(type "Legacy")(uri "${KIPRJMOD}/libraries/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
 )
