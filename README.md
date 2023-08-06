@@ -42,4 +42,8 @@ video: https://www.youtube.com/embed/ZMxaZsce7TQ
 Files for laser cutting at:
 https://github.com/Jrodna/OrthoCode/tree/master/laserFiles
 
+Acrylic sizes
+Middle layers: any number of pieces making up 9mm in thickness (production ones were either 2x4.5mm or 6mm and 3mm)
+Base layer: any thickness (production ones were either 6mm or 4.5mm)
+
 
