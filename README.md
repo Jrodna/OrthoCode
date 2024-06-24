@@ -5,8 +5,13 @@ The aim was to create a layout that would take advantage of what your thumbs can
 While also keeping compatibility with the controls of most games and allowing standard keycaps to be used.
 
 ## The store is now closed
-There are still some units for sale, if you would like to purchase one for NZD 280 + shipping please contact me directly at orthocodekb@gmail.com
-Happy to discuss doing the build for you / soldering some components before sending it out at no additional cost.
+**Sold out as of 24/06/24**
+
+If you build your own I'd love to see it, please send through photos to orthocodekb@gmail.com :)
+
+
+~~There are still some units for sale, if you would like to purchase one for NZD 280 + shipping please contact me directly at orthocodekb@gmail.com
+Happy to discuss doing the build for you / soldering some components before sending it out at no additional cost.~~
 
 ![Layout Image](https://github.com/Jrodna/OrthoCode/blob/master/images/keyboard-layout.jpg)
 
